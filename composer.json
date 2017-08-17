@@ -1,0 +1,10 @@
+{
+    "name": "zhem4ag/sonata-media-crop",
+    "description": "Sonata Media Bundle crop tool",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.6",
+        "knplabs/gaufrette": "^0.4"
+    }
+}
